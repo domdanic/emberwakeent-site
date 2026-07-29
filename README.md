@@ -32,4 +32,4 @@ The custom domain can be connected after GitHub Pages is enabled. A `CNAME` file
 
 ## Current external link
 
-The Domdanic project card points to `https://domdanic.com`. That destination may remain unavailable until the Domdanic site is published.
+The domdanic project card points to `https://domdanic.com`. That destination may remain unavailable until the domdanic site is published.
